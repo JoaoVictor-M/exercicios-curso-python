@@ -6,9 +6,9 @@
     - Exercitar a lógica de programação.
 
 * <h4> Exercícios </h4>
-    - Calculadora básica
-    - Cortesia horária
-    - Ficha + IMC
-    - Par ou Ímpar
-    - Tamanho do nome
+    - Calculadora básica </br>
+    - Cortesia horária </br>
+    - Ficha + IMC </br>
+    - Par ou ímpar </br>
+    - Tamanho do nome </br>
     
