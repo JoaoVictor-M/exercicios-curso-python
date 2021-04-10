@@ -1,2 +1,2 @@
 # exercicios-curso-python
-Exercícios do curso de Python 3.
+Exercícios efetuados no curso de Python 3.
