@@ -6,7 +6,7 @@
     - Exercitar a lógica de programação.
 
 * <h4> Exercícios </h4>
-    - Calculadora básica </br>
+    - <a href = "https://github.com/n3r0r/exercicios-curso-python/blob/master/M%C3%B3dulo%201/Calculadora_b%C3%A1sica.py">Calculadora básica</a> </br>
     - Cortesia horária </br>
     - Ficha + IMC </br>
     - Par ou ímpar </br>
